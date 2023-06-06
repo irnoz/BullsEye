@@ -3,6 +3,7 @@
 //  BullsEye
 //
 //  Created by Irakli Nozadze on 05.06.23.
+//  Artwork/images/designs: from UIKit Apprentice, available at www.raywenderlich.com
 //
 
 import UIKit
